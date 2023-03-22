@@ -6,8 +6,8 @@ RECONOCIMIENTO DE PATRONES
 Ciclo 2023-1
 
 #  Integrantes: 
-\n Emilio Ochoa
-\n Luis Revilla
+Emilio Ochoa
+Luis Revilla
 Sebastian Ríos
 
 #  Asesor: 
